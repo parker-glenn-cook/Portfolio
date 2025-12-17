@@ -36,11 +36,11 @@ main {
   align-items: start;
 }
 
-/* Headings in projects */
+
 #projects h2,
 .project h3,
 .project h4 {
-  grid-column: 1 / -1;  /* span full width of grid */
+  grid-column: 1 / -1;
   text-align: left;
   margin-bottom: 20px;
 }
